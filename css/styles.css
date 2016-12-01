@@ -1,0 +1,32 @@
+.gallery {
+  text-align: center;
+}
+
+.color{
+  color: black;
+}
+
+.gallery img {
+  width: 100%;
+}
+
+.test {
+  width: 100%;
+  object-fit: cover;
+  height: 100%;
+  margin: auto;
+}
+
+.carousel-slider {
+  width: 100%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.page-footer {
+  background-color: rgb(77, 121, 164) !important;
+}
+
+/*.bg {
+  background-color: rgb(77, 121, 164);
+}*/
