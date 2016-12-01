@@ -1,3 +1,8 @@
+/*div {
+  border: 1px dashed black;
+}*/
+
+
 .gallery {
   text-align: center;
 }
@@ -25,8 +30,20 @@
 
 .page-footer {
   background-color: rgb(77, 121, 164) !important;
+  height: 100%;
 }
 
+
+.page-footer {
+  margin: 0;
+  padding: 0;
+
+}
+
+.top1 {
+
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+}
 /*.bg {
   background-color: rgb(77, 121, 164);
 }*/
